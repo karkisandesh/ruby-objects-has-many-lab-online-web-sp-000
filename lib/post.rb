@@ -12,7 +12,7 @@ class Post
   end
   
   def author
-    @title
+    
   end
   
   def author_name
